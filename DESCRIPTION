@@ -1,13 +1,13 @@
 Package: shiny.ggstatsplot
-Title: What the Package Does (Title Case)
+Title: A User-Friendly Application for 'ggstatsplot' package.
 Version: 0.0.1
 Author: Aboubacar HEMA [aut, cre]
 Maintainer: Aboubacar HEMA <aboubacarhema94@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: GPL-3
-URL: https://github.com/Abson-dev/sdmApp
-BugReports: https://github.com/Abson-dev/sdmApp/issues
+URL: https://github.com/Abson-dev/shiny.ggstatsplot
+BugReports: https://github.com/Abson-dev/shiny.ggstatsplot/issues
 Depends: R (>= 3.5.0)
 Encoding: UTF-8
 LazyData: true
